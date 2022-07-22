@@ -7,3 +7,5 @@ int main()
 	cin>>s;
 	cout<<"Hello, "<<s;
 }
+
+//https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
